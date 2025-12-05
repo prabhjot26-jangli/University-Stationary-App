@@ -5,6 +5,9 @@ Students can easily login and access their profiles via the student dasboard, wh
 PLEASE NOTE THAT I DELETED SOME ESSENTAISL MACOS, IOS, LINUX AND WINDOWS FILE FROM THE MAIN DIRECTORY IN ORDER TO REDUCE THE FOLDER SIZE AND UPLOAD IT ON GIHUB(HERE). KINDLY GO TO THE LIB FOLDER IN THE MAIN DIRECTORY WHERE YOU WILL FIND ALL THE ESSENTAIL DART FILES TO RUN THIS APP ALONG WITH THE PUBSPEC.YAML
 
 
+this app database is hosted on SUPABASE where the structure for its database and storage has been implemented successfully with the guidance of kiro-cli, which helped me process every step of connecting database and making it work for me
+
+
 
 FOR LOGIN :
 
